@@ -1,2 +1,2 @@
-# Applied-Data-science-Capstone-Project
+# Coursera-Capstone
 Contains solution of Applied data science capstone project from Coursera.
